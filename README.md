@@ -2,4 +2,4 @@
 Some helpful notebooks to get you started on learning python!
 
 # Homework
-Homework can be submitted through [this google form]([https://forms.gle/XCM33SzCQRCXZjvo6).
+Homework can be submitted through (this google form)[https://forms.gle/XCM33SzCQRCXZjvo6].
